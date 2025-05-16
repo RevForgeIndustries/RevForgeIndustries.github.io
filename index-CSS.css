@@ -14,7 +14,7 @@ body {
 .header {
     height: 115px;
 
-    background-image:url(Assets/Images/CarbonFIber.jpg);
+    background-image:url(Assets/Images/CarbonFiber.jpg);
     background-size: 5%;
 
     border-top: 35px solid rgb(22, 22, 22);
