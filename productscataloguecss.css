@@ -5,7 +5,7 @@ body {
 .header {
     height: 115px;
 
-    background-image:url(Assets/Images/CarbonFIber.jpg);
+    background-image:url(assets/images/carbonfiberimage.jpg);
     background-size: 5%;
 
     border-top: 35px solid rgb(22, 22, 22);
@@ -47,7 +47,7 @@ body {
 /* Products Header */
 
 .products-header {
-    background-image:url(Assets/Images/CarbonFIber.jpg);
+    background-image:url(assets/images/carbonfiberimage.jpg);
     background-size: 5%;
 
     border-top: 50px solid rgb(22, 22, 22);
@@ -76,7 +76,7 @@ body {
 
 /* Switch Board Column */
 .switch-board-image {
-    background-image:url(Assets/Images/Product-Catalogue-Switchboard.jpg);
+    background-image:url(assets/images/productcatalogueswitchboard.jpg);
     background-size: 100%;
 
     padding: 0.5%;
@@ -105,7 +105,7 @@ body {
 
 /* More To Come One Column */
 .more-to-come-image-one {
-    background-image:url(Assets/Images/Product-Catalogue-Come-Back-Soon.jpg);
+    background-image:url(assets/images/productcataloguecomebacksoon.jpg);
     background-size: 100%;
     padding: 0.5%;
     height: 335px;
@@ -117,7 +117,7 @@ body {
 
 /* More To Come Two Column */
 .more-to-come-image-two {
-    background-image:url(Assets/Images/Product-Catalogue-Come-Back-Soon.jpg);
+    background-image:url(assets/images/productcataloguecomebacksoon.jpg);
     background-size: 100%;
     padding: 0.5%;
     height: 335px;
@@ -129,7 +129,7 @@ body {
 
 /* More To Come Three Column */
 .more-to-come-image-three {
-    background-image:url(Assets/Images/Product-Catalogue-Come-Back-Soon.jpg);
+    background-image:url(assets/images/productcataloguecomebacksoon.jpg);
     background-size: 100%;
     padding: 0.5%;
     height: 335px;
@@ -141,7 +141,7 @@ body {
 
 /* More To Come Four Column */
 .more-to-come-image-four {
-    background-image:url(Assets/Images/Product-Catalogue-Come-Back-Soon.jpg);
+    background-image:url(assets/images/productcataloguecomebacksoon.jpg);
     background-size: 100%;
     padding: 0.5%;
     height: 335px;
@@ -153,7 +153,7 @@ body {
 
 /* More To Come Five Column */
 .more-to-come-image-five {
-    background-image:url(Assets/Images/Product-Catalogue-Come-Back-Soon.jpg);
+    background-image:url(assets/images/productcataloguecomebacksoon.jpg);
     background-size: 100%;
     padding: 0.5%;
     height: 335px;
@@ -165,7 +165,7 @@ body {
 
 /* More To Come Six Column */
 .more-to-come-image-six {
-    background-image:url(Assets/Images/Product-Catalogue-Come-Back-Soon.jpg);
+    background-image:url(assets/images/productcataloguecomebacksoon.jpg);
     background-size: 100%;
     padding: 0.5%;
     height: 335px;
@@ -177,7 +177,7 @@ body {
 
 /* More To Come Seven Column */
 .more-to-come-image-seven {
-    background-image:url(Assets/Images/Product-Catalogue-Come-Back-Soon.jpg);
+    background-image:url(assets/images/productcataloguecomebacksoon.jpg);
     background-size: 100%;
     padding: 0.5%;
     height: 335px;
@@ -189,7 +189,7 @@ body {
 
 /* More To Come Eight Column */
 .more-to-come-image-eight {
-    background-image:url(Assets/Images/Product-Catalogue-Come-Back-Soon.jpg);
+    background-image:url(assets/images/productcataloguecomebacksoon.jpg);
     background-size: 100%;
     padding: 0.5%;
     height: 335px;
@@ -201,7 +201,7 @@ body {
 
 /* More To Come Nine Column */
 .more-to-come-image-nine {
-    background-image:url(Assets/Images/Product-Catalogue-Come-Back-Soon.jpg);
+    background-image:url(assets/images/productcataloguecomebacksoon.jpg);
     background-size: 100%;
     padding: 0.5%;
     height: 335px;
